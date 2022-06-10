@@ -10,11 +10,4 @@ Usage of SocialPhish for attacking targets without prior mutual consent is illeg
 Screenshot
 https://cdn.discordapp.com/attachments/970092404063490078/984830878217830460/Fdom.PNG
 
-Usage:
-pkg install git
-apt upgrade
-apt update
-git clone https://github.com/Flexen21/FdomPhisher.git
-cd cd FdomPhisher
-ls
-bash FdomPhisher.sh
+
